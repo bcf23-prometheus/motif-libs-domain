@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.surokkha.domain.entities.BaseEntity,\
+  com.surokkha.domain.request.PaginationRequest \
+  com.surokkha.domain.response.ApiResponse \
+  com.surokkha.domain.response.PagedResponse
